@@ -130,6 +130,12 @@
         <mxCell id="UlmK4mVwF7eBdXs1bM5X-50" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=8;dy=5;size=5;boundedLbl=1;strokeWidth=0.2;" parent="1" vertex="1">
           <mxGeometry x="290" y="610" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="cb3_4KmYQQ_qcWgV98pw-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5.5;dx=18;notch=0;arrowHead=29;rounded=0;flipV=1;flipH=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="900" y="830" width="65" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cb3_4KmYQQ_qcWgV98pw-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=5.5;dx=18;notch=0;arrowHead=29;rounded=0;flipV=0;flipH=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="405" y="830" width="65" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
